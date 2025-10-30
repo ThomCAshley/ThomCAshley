@@ -2,7 +2,7 @@
 
 ## Featured Projects:
 
-(https://github.com/afjal4/Precipitation-in-Sierra-Nevada)
+[Long-Term Effects of Varying Precipitation in the Sierra Nevada](https://github.com/afjal4/Precipitation-in-Sierra-Nevada)
 
 <!--
 **ThomCAshley/ThomCAshley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
