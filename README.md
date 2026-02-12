@@ -3,6 +3,8 @@ Physics student @ Imperial College London
 
 ## Featured Projects:
 
+[Physics-Informed Neural Networks for Grad--Shafranov Equilibria](https://github.com/ThomCAshley/Grad-PINN)
+
 [Long-Term Effects of Varying Precipitation in the Sierra Nevada](https://github.com/afjal4/Precipitation-in-Sierra-Nevada)
 
 <!--
